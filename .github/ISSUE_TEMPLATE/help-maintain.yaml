@@ -4,7 +4,7 @@ description: Request access to a repository to maintain it.
 title: ""
 labels: ["maintain"]
 assignees:
-  - ''
+  - ""
 body:
   - type: markdown
     attributes:
@@ -21,16 +21,16 @@ body:
       label: What do you want to do
       options:
         - label: Address reported issues and feature requests
-        - label: Update a **Archived** repository to make it work on the latest JupyterLab version
+        - label: Update a **Archived** repository to make it work on the latest Xarray version
         - label: Improve an extension (if so please describe, what you want to achieve)
   - type: checkboxes
     id: help-type
     attributes:
       label: Which level of help, would you need (choose one of)
       options:
-        - label: Total beginner but enthusiast (you are more than welcome and we will help in your learning of the Jupyter ecosystem)
+        - label: Total beginner but enthusiast (you are more than welcome and we will help in your learning of the Xarray ecosystem)
         - label: Good reviews with tips would be appreciated
-        - label: I am a experienced developer with Jupyter ecosystem
+        - label: I am a experienced developer with Xarray ecosystem
   - type: textarea
     id: other
     attributes:

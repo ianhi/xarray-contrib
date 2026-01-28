@@ -11,7 +11,7 @@ This site is built with [`mystmd`](https://mystmd.org/). To build the site run `
 :::
 :::{tab-item} npx
 :sync: npx
-`npx myst start`
+`npx mystmd start`
 :::
 ::::
 

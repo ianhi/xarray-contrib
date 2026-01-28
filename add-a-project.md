@@ -12,7 +12,7 @@ There are three hard requirements for a project to be included in `xarray-contri
 
 ### 1. Open source license
 
-The project must bee Licensed under an [OSI approved license](https://opensource.org/licenses)
+The project must be Licensed under an [OSI approved license](https://opensource.org/licenses)
 
 ### 2. Code of Conduct
 
@@ -26,7 +26,7 @@ To ensure that new maintainers can be added in the future if the original projec
 
 **pypi**
 
-The pypi project will be transferred to the xarray-contrib PyPi organization (TODO - create that and then link here).
+The pypi project will be transferred to the xarray-contrib PyPi organization.
 
 **conda-forge**
 
@@ -37,7 +37,7 @@ If the package is multi language you must provide a mechanism for the xarray-con
 
 #### Documentation
 
-Any documentation hosting (e.g. `readthedocs`) must also be shared with `xarray-contrib`
+Any documentation hosting (e.g. `readthedocs`) must also be shared with `xarray-contrib` by granting  an xarray-contrib core team member adequate rights add maintainers in the future.
 
 ## Guidelines
 
@@ -50,6 +50,5 @@ Projects in `xarray-contrib` should contain sufficient functionality and documen
   - Usage examples
   - API reference
 - Unit tests + continuous integration
-- [PEP8](https://www.python.org/dev/peps/pep-0008/) compliant code style
 
 If you have a project that meets these requirements, open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new/choose) in this repository to discuss transferring it to the xarray-contrib organization.

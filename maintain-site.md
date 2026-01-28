@@ -2,7 +2,7 @@
 
 ## Building this Site
 
-This site is built with [`mystmd`](https://mystmd.org/). To build the site run `myst start` from the top level of the repo. You can manage this from any virtual environment or via a tool such as `uvx` of `npx`
+This site is built with [`mystmd`](https://mystmd.org/). To build the site run `myst start` from the top level of the repo. You can manage this from any virtual environment or via a tool such as `uvx` or `npx`
 
 ::::{tab-set}
 :::{tab-item} uvx

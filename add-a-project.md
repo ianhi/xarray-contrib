@@ -1,6 +1,6 @@
 # Add your project
 
-To transfer a project to `xarray-contrib` make sure it meets the requirements below then open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new/choose) in this repository to discuss transferring it to the xarray-contrib organization.
+To transfer a project to `xarray-contrib` make sure it meets the requirements below then open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new?template=transfer-repo-to-this-organization.yaml) in this repository to discuss transferring it to the xarray-contrib organization.
 
 ```{warning}
 Projects included in xarray-contrib organization are not supported by the Xarray Core Developer Team. The organization provides visibilty to the project and a mechanism for people to volunteer to maintain abandoned projects.
@@ -41,7 +41,7 @@ Any documentation hosting (e.g. `readthedocs`) must also be shared with `xarray-
 
 ## Guidelines
 
-Projects in `xarray-contrib` should contain sufficient functionality and documentation to be useful and welcoming to new users. They should also follow software development best practices:
+In addition to the requirements above projects should contain sufficient functionality and documentation to be useful and welcoming to new users. They should also follow software development best practices:
 
 - Supports a recent version of Xarray
 - Available on [PyPI](https://pypi.org/) and/or [conda-forge](https://conda-forge.org/)
@@ -51,4 +51,4 @@ Projects in `xarray-contrib` should contain sufficient functionality and documen
   - API reference
 - Unit tests + continuous integration
 
-If you have a project that meets these requirements, open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new/choose) in this repository to discuss transferring it to the xarray-contrib organization.
+If you have a project that meets these requirements, open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new?template=transfer-repo-to-this-organization.yaml) in this repository to discuss transferring it to the xarray-contrib organization.

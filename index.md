@@ -8,6 +8,6 @@ As more and more projects build on Xarray, we wanted to provide a central place 
 
 ## Longevity
 
-Important community open source projects can
+Important community open source projects can sometimes lose their maintainers due to job changes, shifting priorities, or other life circumstances. Projects in this organization give xarray-contrib the ability to add new maintainers in the future in case the original authors are no longer able or available to work on the project.
 
-Projects in this organization give xarray-contrib the ability to add new maintainers in the future in case the original authors are no longer able or available to work on the project.
+This ensures that the community can continue to benefit from these tools, even when the original developers move on.

@@ -14,7 +14,7 @@ project:
     - file: add-a-project.md
     - file: list-of-projects.md
     - file: maintain-a-project.md
-    - file: volunteer.md
+    - file: maintain-site.md
     
 site:
   title: Xarray-Contrib

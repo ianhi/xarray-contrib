@@ -20,7 +20,7 @@ Projects in xarray-contrib should contain sufficient functionality and documenta
 - Unit tests + continuous integration
 - [PEP8](https://www.python.org/dev/peps/pep-0008/) compliant code style
 
-If you have a project that meets these requirements, open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new/choose) in this repository to discuss transfering it to the xarray-contrib organization.
+If you have a project that meets these requirements, open a [new issue](https://github.com/xarray-contrib/xarray-contrib/issues/new?template=transfer-repo-to-this-organization.yaml) in this repository to discuss transfering it to the xarray-contrib organization.
 
 ## Disclaimer
 

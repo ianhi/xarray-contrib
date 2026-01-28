@@ -9,6 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this form!
+        Please review the [requirements](https://xarray-contrib.github.io/xarray-contrib/add-a-project.html) before submitting.
   - type: textarea
     id: description
     attributes:
@@ -75,6 +76,14 @@ body:
       options:
         - label: "Yes"
           required: false
+  - type: checkboxes
+    id: pypi-ownership
+    attributes:
+      label: PyPI Ownership
+      description: To ensure project continuity, xarray-contrib requires shared access to package registries
+      options:
+        - label: I agree to share ownership of the PyPI project with the xarray-contrib organization
+          required: true
   - type: textarea
     id: other-information
     attributes:
